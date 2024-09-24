@@ -1,0 +1,5 @@
+1. Download Python.
+2. Run setup.bat.
+3. Enter your Discord webhook.
+4. Open the "dist" folder.
+5. Run "client.exe" to get info.
